@@ -1,2 +1,3 @@
 # Game_Questions
-Juego de preguntas básicas de matemáticas desarrollado la Universidad
+Juego de preguntas  de matemática basica desarrollado  para la Universidad.
+Game of  questions of basic math  developed for the university.
